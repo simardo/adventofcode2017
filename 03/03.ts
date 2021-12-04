@@ -119,7 +119,7 @@ function doPart2(input: number): void {
 // doPart1(12);
 // doPart1(23);
 // doPart1(1024);
-doPart1(277678);
+doPart1(0);
 
 // doPart2(806);
-doPart2(277678);
+doPart2(0);

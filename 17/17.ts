@@ -56,6 +56,6 @@ function doPart2(input: number): void {
 }
 
 doPart1(3);
-doPart1(366);
+doPart1(0);
 
-doPart2(366);
+doPart2(0);

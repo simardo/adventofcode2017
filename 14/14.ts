@@ -1,4 +1,4 @@
-const INPUT: string = 'jxqlasbh';
+const INPUT: string = '';
 const TEST1: string = 'flqrgnkx';
 
 const INPUT_EX: number[] = [17, 31, 73, 47, 23];

@@ -1,5 +1,5 @@
 const TEST1: [number, number] = [65, 8921];
-const INPUT: [number, number] = [516, 190];
+const INPUT: [number, number] = [0, 0];
 
 const GEN_A_FACTOR: number = 16807;
 const GEN_B_FACTOR: number = 48271;

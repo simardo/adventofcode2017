@@ -98,10 +98,10 @@ function doPart2(input: string, listCount: number): void {
 }
 
 // doPart1(TEST, 5);
-doPart1(INPUT, 256);
+doPart1(INPUT, 0);
 
 // doPart2(TEST2, 256);
 // doPart2(TEST3, 256);
 // doPart2(TEST4, 256);
 // doPart2(TEST5, 256);
-doPart2(INPUT, 256);
+doPart2(INPUT, 0);
